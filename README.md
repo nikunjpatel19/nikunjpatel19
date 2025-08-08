@@ -10,7 +10,7 @@ Driven by curiosity and a love for technology, I specialize in building robust A
 
 ---
 
-## 🛠️ Skills for Android Job Hunt
+## 🛠️ My Skills
 
 - **Languages:** Kotlin, Java
 - **UI:** Jetpack Compose, XML Layouts, Material Design
