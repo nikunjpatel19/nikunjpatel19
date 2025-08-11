@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikunj Patel!
 
-Welcome to my GitHub profile! I’m an Android Developer based in Toronto, passionate about crafting innovative mobile experiences and collaborating within the tech community.
+I’m an Android Developer based in Toronto, passionate about crafting innovative mobile experiences and collaborating within the tech community.
 
 ---
 
@@ -20,14 +20,6 @@ Driven by curiosity and a love for technology, I specialize in building robust A
 - **DevOps:** Git, CI/CD (GitHub Actions, Bitrise), Firebase (Crashlytics, Analytics)
 - **Other:** REST API Integration, Push Notifications, Play Store Deployment, Agile/Scrum Methodology
 
----
-
-## 🌟 Featured Projects
-
-- **Latest Upload:**  
-  Explore my most recent project on my [GitHub profile](https://github.com/nikunjpatel19)!
-
----
 
 ## 📫 Connect with Me
 
@@ -38,7 +30,7 @@ Driven by curiosity and a love for technology, I specialize in building robust A
 
 ## 💡 Fun Fact
 
-Coffee lover and tech enthusiast who enjoys exploring Toronto!
+Coffee lover and tech enthusiast who enjoys exploring!
 
 ---
 
