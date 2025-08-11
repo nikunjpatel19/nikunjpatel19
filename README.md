@@ -20,12 +20,6 @@ Driven by curiosity and a love for technology, I specialize in building robust A
 - **DevOps:** Git, CI/CD (GitHub Actions, Bitrise), Firebase (Crashlytics, Analytics)
 - **Other:** REST API Integration, Push Notifications, Play Store Deployment, Agile/Scrum Methodology
 
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/nikunjpatel19)
-- [Twitter](https://twitter.com/nikunjpatel1905)
-
 ---
 
 ## 💡 Fun Fact
