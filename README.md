@@ -12,7 +12,7 @@ Driven by curiosity and a love for technology, I specialize in building robust A
 
 ## 🛠️ My Skills
 
-- **Languages:** Kotlin, Java
+- **Languages:** Kotlin, Java, JavaScript, Swift
 - **UI:** Jetpack Compose, XML Layouts, Material Design
 - **Architecture:** MVVM, MVI, Clean Architecture, Repository Pattern
 - **Libraries & Tools:** Coroutines, Retrofit, Room, LiveData, ViewModel, Dagger/Hilt, Navigation Component
